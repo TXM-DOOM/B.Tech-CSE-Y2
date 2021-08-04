@@ -1,0 +1,801 @@
+	Name	HP
+261	Blissey	255
+121	Chansey	250
+217	Wobbuffet	190
+351	Wailord	170
+655	Alomomola	165
+155	Snorlax	160
+473	Drifblim	150
+313	Slaking	150
+544	GiratinaAltered Forme	150
+545	GiratinaOrigin Forme	150
+321	Hariyama	144
+45	Wigglytuff	140
+495	Munchlax	135
+350	Wailmer	130
+145	Vaporeon	130
+142	Lapras	130
+792	Xerneas	126
+793	Yveltal	126
+185	Lanturn	125
+710	Kyurem	125
+711	KyuremBlack Kyurem	125
+712	KyuremWhite Kyurem	125
+741	Gogoat	123
+769	Aurorus	123
+598	Throh	120
+552	Arceus	120
+546	Cresselia	120
+577	Musharna	116
+515	Rhyperior	115
+44	Jigglypuff	115
+263	Entei	115
+652	Amoonguss	114
+470	Gastrodon	111
+372	Whiscash	110
+691	Mandibuzz	110
+543	Regigigas	110
+524	Mamoswine	110
+559	Emboar	110
+514	Lickilicky	110
+589	Excadrill	110
+640	Reuniclus	110
+400	Walrein	110
+679	Stunfisk	109
+494	GarchompMega Garchomp	108
+493	Garchomp	108
+794	Zygarde50% Forme	108
+500	Hippowdon	108
+270	Ho-oh	106
+269	Lugia	106
+163	MewtwoMega Mewtwo X	106
+164	MewtwoMega Mewtwo Y	106
+162	Mewtwo	106
+615	DarmanitanStandard Mode	105
+597	Seismitoad	105
+124	KangaskhanMega Kangaskhan	105
+123	Kangaskhan	105
+96	Muk	105
+426	RayquazaMega Rayquaza	105
+120	Rhydon	105
+616	DarmanitanZen Mode	105
+594	Conkeldurr	105
+425	Rayquaza	105
+319	Exploud	104
+590	Audino	103
+591	AudinoMega Audino	103
+483	Skuntank	103
+753	Aromatisse	101
+239	Piloswine	100
+165	Mew	100
+267	Tyranitar	100
+540	Dialga	100
+264	Suicune	100
+346	Swalot	100
+516	Tangrowth	100
+422	KyogrePrimal Kyogre	100
+268	TyranitarMega Tyranitar	100
+404	Relicanth	100
+423	Groudon	100
+178	Noctowl	100
+283	SwampertMega Swampert	100
+478	Honchkrow	100
+199	Azumarill	100
+271	Celebi	100
+421	Kyogre	100
+427	Jirachi	100
+282	Swampert	100
+424	GroudonPrimal Groudon	100
+548	Manaphy	100
+488	Happiny	100
+221	Dunsparce	100
+707	Zekrom	100
+553	Victini	100
+550	ShayminLand Forme	100
+716	MeloettaPirouette Forme	100
+715	MeloettaAria Forme	100
+689	Braviary	100
+706	Reshiram	100
+551	ShayminSky Forme	100
+654	Jellicent	100
+390	Tropius	99
+454	Rampardos	97
+382	Milotic	95
+613	Krookodile	95
+409	SalamenceMega Salamence	95
+394	Wynaut	95
+675	Beartic	95
+408	Salamence	95
+434	Torterra	95
+743	Pangoro	95
+687	Bouffalant	95
+111	Exeggutor	95
+562	Samurott	95
+789	Avalugg	95
+260	Miltank	95
+210	Quagsire	95
+212	Umbreon	95
+140	Gyarados	95
+214	Slowking	95
+141	GyaradosMega Gyarados	95
+41	Clefable	95
+86	Slowbro	95
+87	SlowbroMega Slowbro	95
+770	Sylveon	95
+696	Hydreigon	92
+161	Dragonite	91
+699	Cobalion	91
+700	Terrakion	91
+714	KeldeoResolute Forme	91
+701	Virizion	91
+713	KeldeoOrdinary Forme	91
+542	Heatran	91
+201	Politoed	90
+235	Ursaring	90
+250	Phanpy	90
+251	Donphan	90
+262	Raikou	90
+776	Goodra	90
+36	Nidoqueen	90
+399	Sealeo	90
+196	AmpharosMega Ampharos	90
+195	Ampharos	90
+298	Shiftry	90
+158	Moltres	90
+188	Igglybuff	90
+157	Zapdos	90
+156	Articuno	90
+64	Arcanine	90
+85	Slowpoke	90
+116	Lickitung	90
+67	Poliwrath	90
+74	Machamp	90
+558	Pignite	90
+541	Palkia	90
+511	AbomasnowMega Abomasnow	90
+94	Dewgong	90
+226	Granbull	90
+510	Abomasnow	90
+472	Drifloon	90
+708	LandorusIncarnate Forme	89
+709	LandorusTherian Forme	89
+684	Golurk	89
+720	Chesnaught	88
+757	Malamar	86
+520	Yanmega	86
+378	Cradily	86
+736	Pyroar	86
+519	Togekiss	85
+728	Diggersby	85
+183	Crobat	85
+787	GourgeistSuper Size	85
+105	Hypno	85
+176	Furret	85
+567	Stoutland	85
+593	Gurdurr	85
+252	Porygon2	85
+174	Feraligatr	85
+791	Noivern	85
+665	Eelektross	85
+525	Porygon-Z	85
+466	Floatzel	85
+585	Gigalith	85
+443	Staraptor	85
+692	Heatmor	85
+698	Volcarona	85
+779	Trevenant	85
+440	Empoleon	84
+318	Loudred	84
+504	Toxicroak	83
+23	PidgeotMega Pidgeot	83
+22	Pidgeot	83
+767	Tyrantrum	82
+755	Slurpuff	82
+39	Nidoking	81
+538	Mesprit	80
+580	Unfezant	80
+797	HoopaHoopa Confined	80
+798	HoopaHoopa Unbound	80
+232	HeracrossMega Heracross	80
+231	Heracross	80
+419	Latios	80
+278	Blaziken	80
+279	BlazikenMega Blaziken	80
+417	Latias	80
+416	Registeel	80
+415	Regice	80
+414	Regirock	80
+413	MetagrossMega Metagross	80
+412	Metagross	80
+420	LatiosMega Latios	80
+450	Luxray	80
+678	Accelgor	80
+397	GlalieMega Glalie	80
+396	Glalie	80
+647	Sawsbuck	80
+630	Garbodor	80
+361	Flygon	80
+357	Grumpig	80
+418	LatiasMega Latias	80
+734	Vivillon	80
+312	Vigoroth	80
+295	Ludicolo	80
+547	Phione	80
+799	Volcanion	80
+60	Golduck	80
+95	Grimer	80
+77	Victreebel	80
+153	Aerodactyl	80
+168	Meganium	80
+79	Tentacruel	80
+82	Golem	80
+73	Machoke	80
+154	AerodactylMega Aerodactyl	80
+3	VenusaurMega Venusaur	80
+128	Seaking	80
+119	Rhyhorn	80
+2	Venusaur	80
+705	ThundurusTherian Forme	79
+704	ThundurusIncarnate Forme	79
+445	Bibarel	79
+702	TornadusIncarnate Forme	79
+11	Blastoise	79
+12	BlastoiseMega Blastoise	79
+703	TornadusTherian Forme	79
+287	Linoone	78
+171	Typhlosion	78
+731	Talonflame	78
+771	Hawlucha	78
+739	Florges	78
+8	CharizardMega Charizard Y	78
+7	CharizardMega Charizard X	78
+6	Charizard	78
+752	Spritzee	78
+768	Amaura	77
+682	Druddigon	77
+447	Kricketune	77
+576	Munna	76
+673	Haxorus	76
+437	Infernape	76
+469	Shellos	76
+489	Chatot	76
+223	Steelix	75
+592	Timburr	75
+786	GourgeistLarge Size	75
+433	Grotle	75
+556	Serperior	75
+561	Dewott	75
+138	Tauros	75
+571	Simisage	75
+575	Simipour	75
+47	Golbat	75
+242	Octillery	75
+582	Zebstrika	75
+50	Vileplume	75
+247	Houndoom	75
+184	Chinchou	75
+220	Forretress	75
+596	Palpitoad	75
+248	HoundoomMega Houndoom	75
+599	Sawk	75
+602	Leavanny	75
+249	Kingdra	75
+380	Armaldo	75
+667	Beheeyem	75
+617	Maractus	75
+366	AltariaMega Altaria	75
+365	Altaria	75
+628	Archeops	75
+634	Cinccino	75
+33	Sandslash	75
+573	Simisear	75
+723	Delphox	75
+523	Gliscor	75
+207	Sunflora	75
+204	Jumpluff	75
+744	Furfrou	75
+471	Ambipom	75
+224	SteelixMega Steelix	75
+197	Bellossom	75
+517	Electivire	75
+518	Magmortar	75
+642	Swanna	75
+537	Uxie	75
+539	Azelf	75
+747	MeowsticFemale	74
+659	Ferrothorn	74
+505	Carnivine	74
+746	MeowsticMale	74
+626	Carracosta	74
+368	Seviper	73
+43	Ninetales	73
+253	Stantler	73
+367	Zangoose	73
+320	Makuhita	72
+726	Greninja	72
+622	Sigilyph	72
+759	Barbaracle	72
+695	Zweilous	72
+717	Genesect	71
+645	Vanilluxe	71
+480	Purugly	71
+763	Clawitzer	71
+363	Cacturne	70
+498	LucarioMega Lucario	70
+218	Girafarig	70
+637	Gothitelle	70
+497	Lucario	70
+355	Torkoal	70
+354	CameruptMega Camerupt	70
+353	Camerupt	70
+369	Lunatone	70
+370	Solrock	70
+530	Froslass	70
+549	Darkrai	70
+614	Darumaka	70
+461	Mothim	70
+150	Omastar	70
+463	Vespiquen	70
+584	Boldore	70
+513	Magnezone	70
+228	Scizor	70
+72	Machop	70
+512	Weavile	70
+398	Spheal	70
+468	Cherrim	70
+229	ScizorMega Scizor	70
+502	Drapion	70
+610	Basculin	70
+383	Castform	70
+132	Scyther	70
+609	Lilligant	70
+619	Crustle	70
+349	SharpedoMega Sharpedo	70
+333	AggronMega Aggron	70
+54	Venomoth	70
+325	Delcatty	70
+676	Cryogonal	70
+182	Ariados	70
+688	Rufflet	70
+690	Vullaby	70
+308	Masquerain	70
+297	Nuzleaf	70
+35	Nidorina	70
+285	Mightyena	70
+281	Marshtomp	70
+194	Flaaffy	70
+275	SceptileMega Sceptile	70
+274	Sceptile	70
+198	Marill	70
+200	Sudowoodo	70
+266	Pupitar	70
+332	Aggron	70
+40	Clefairy	70
+339	ManectricMega Manectric	70
+650	Escavalier	70
+345	Gulpin	70
+338	Manectric	70
+657	Galvantula	70
+348	Sharpedo	70
+651	Foongus	69
+507	Lumineon	69
+492	Gabite	68
+775	Sliggoo	68
+527	GalladeMega Gallade	68
+305	Gardevoir	68
+306	GardevoirMega Gardevoir	68
+526	Gallade	68
+499	Hippopotas	68
+587	Swoobat	67
+453	Cranidos	67
+772	Dedenne	67
+742	Pancham	67
+485	Bronzong	67
+740	Skiddo	66
+672	Fraxure	66
+377	Lileep	66
+93	Seel	65
+211	Espeon	65
+621	Scrafty	65
+136	Pinsir	65
+761	Dragalge	65
+343	Illumise	65
+133	Jynx	65
+784	GourgeistAverage Size	65
+134	Electabuzz	65
+135	Magmar	65
+84	Rapidash	65
+173	Croconaw	65
+27	Fearow	65
+192	Xatu	65
+566	Herdier	65
+522	Glaceon	65
+521	Leafeon	65
+639	Duosion	65
+227	Qwilfish	65
+19	BeedrillMega Beedrill	65
+475	Lopunny	65
+476	LopunnyMega Lopunny	65
+122	Tangela	65
+18	Beedrill	65
+222	Gligar	65
+118	Weezing	65
+137	PinsirMega Pinsir	65
+557	Tepig	65
+664	Eelektrik	65
+245	Skarmory	65
+66	Poliwhirl	65
+686	Bisharp	65
+393	AbsolMega Absol	65
+392	Absol	65
+391	Chimecho	65
+62	Primeape	65
+407	Shelgon	65
+208	Yanma	65
+76	Weepinbell	65
+681	Mienshao	65
+146	Jolteon	65
+244	Mantine	65
+58	Persian	65
+342	Volbeat	65
+148	Porygon	65
+147	Flareon	65
+387	BanetteMega Banette	64
+569	Liepard	64
+439	Prinplup	64
+436	Monferno	64
+317	Whismur	64
+386	Banette	64
+482	Stunky	63
+374	Crawdaunt	63
+21	Pidgeotto	63
+641	Ducklett	62
+745	Espurr	62
+735	Litleo	62
+754	Swirlix	62
+730	Fletchinder	62
+765	Heliolisk	62
+579	Tranquill	62
+38	Nidorino	61
+719	Quilladin	61
+315	Ninjask	61
+160	Dragonair	61
+612	Krokorok	60
+662	Klinklang	60
+661	Klang	60
+646	Deerling	60
+670	Chandelure	60
+509	Snover	60
+113	Marowak	60
+669	Lampent	60
+110	Exeggcute	60
+102	GengarMega Gengar	60
+607	Whimsicott	60
+15	Butterfree	60
+564	Watchog	60
+555	Servine	60
+632	Zoroark	60
+31	Raichu	60
+29	Arbok	60
+92	Dodrio	60
+49	Gloom	60
+588	Drilbur	60
+605	Scolipede	60
+528	Probopass	60
+101	Gengar	60
+52	Parasect	60
+104	Drowzee	60
+636	Gothorita	60
+53	Venonat	60
+751	AegislashShield Forme	60
+750	AegislashBlade Forme	60
+109	Electrode	60
+302	Pelipper	60
+460	WormadamTrash Cloak	60
+458	WormadamPlant Cloak	60
+292	Dustox	60
+456	Bastiodon	60
+294	Lombre	60
+452	Roserade	60
+300	Swellow	60
+130	Starmie	60
+309	Shroomish	60
+310	Breloom	60
+311	Slakoth	60
+449	Luxio	60
+331	Lairon	60
+335	Medicham	60
+336	MedichamMega Medicham	60
+340	Plusle	60
+341	Minun	60
+352	Numel	60
+356	Spoink	60
+177	Hoothoot	60
+358	Spinda	60
+376	Claydol	60
+384	Kecleon	60
+167	Bayleef	60
+1	Ivysaur	60
+411	Metang	60
+459	WormadamSandy Cloak	60
+152	Kabutops	60
+464	Pachirisu	60
+225	Snubbull	60
+215	Misdreavus	60
+277	Combusken	60
+234	Teddiursa	60
+213	Murkrow	60
+477	Mismagius	60
+290	Beautifly	60
+783	PumpkabooSuper Size	59
+749	Doublade	59
+722	Braixen	59
+444	Bidoof	59
+683	Golett	59
+10	Wartortle	59
+491	Gible	58
+693	Durant	58
+624	Cofagrigus	58
+170	Quilava	58
+5	Charmeleon	58
+766	Tyrunt	58
+777	Klefki	57
+484	Bronzor	57
+718	Chespin	56
+666	Elgyem	55
+674	Cubchoo	55
+25	Raticate	55
+583	Roggenrola	55
+586	Woobat	55
+403	Gorebyss	55
+402	Huntail	55
+193	Mareep	55
+71	AlakazamMega Alakazam	55
+70	Alakazam	55
+233	Sneasel	55
+601	Swadloon	55
+34	Nidoran (Female)	55
+190	Togetic	55
+63	Growlithe	55
+788	Bergmite	55
+203	Skiploom	55
+627	Archen	55
+633	Minccino	55
+785	GourgeistSmall Size	55
+205	Aipom	55
+144	Eevee	55
+697	Larvesta	55
+648	Emolga	55
+209	Wooper	55
+653	Frillish	55
+254	Smeargle	55
+240	Corsola	55
+180	Ledian	55
+126	Seadra	55
+107	Kingler	55
+432	Turtwig	55
+560	Oshawott	55
+474	Buneary	55
+465	Buizel	55
+81	Graveler	55
+442	Staravia	55
+782	PumpkabooLarge Size	54
+625	Tirtouga	54
+738	Floette	54
+725	Frogadier	54
+438	Piplup	53
+756	Inkay	53
+694	Deino	52
+90	Farfetch'd	52
+644	Vanillish	51
+83	Ponyta	50
+273	Grovyle	50
+490	Spiritomb	50
+59	Psyduck	50
+89	Magneton	50
+649	Karrablast	50
+360	Vibrava	50
+265	Larvitar	50
+629	Trubbish	50
+280	Mudkip	50
+289	Silcoon	50
+344	Roselia	50
+291	Cascoon	50
+322	Azurill	50
+187	Cleffa	50
+677	Shelmet	50
+324	Skitty	50
+326	Sableye	50
+536	RotomMow Rotom	50
+327	SableyeMega Sableye	50
+328	Mawile	50
+329	MawileMega Mawile	50
+330	Aron	50
+668	Litwick	50
+535	RotomFan Rotom	50
+98	Cloyster	50
+534	RotomFrost Rotom	50
+533	RotomWash Rotom	50
+532	RotomHeat Rotom	50
+531	Rotom	50
+32	Sandshrew	50
+656	Joltik	50
+362	Cacnea	50
+572	Pansear	50
+395	Snorunt	50
+611	Sandile	50
+429	DeoxysAttack Forme	50
+595	Tympole	50
+430	DeoxysDefense Forme	50
+773	Carbink	50
+75	Bellsprout	50
+237	Magcargo	50
+14	Metapod	50
+486	Bonsly	50
+112	Cubone	50
+114	Hitmonlee	50
+428	DeoxysNormal Forme	50
+762	Clauncher	50
+219	Pineco	50
+238	Swinub	50
+760	Skrelp	50
+578	Pidove	50
+574	Panpour	50
+796	DiancieMega Diancie	50
+570	Pansage	50
+256	Hitmontop	50
+620	Scraggy	50
+371	Barboach	50
+795	Diancie	50
+618	Dwebble	50
+172	Totodile	50
+431	DeoxysSpeed Forme	50
+115	Hitmonchan	50
+479	Glameow	49
+506	Finneon	49
+780	PumpkabooAverage Size	49
+503	Croagunk	48
+216	Unown	48
+143	Ditto	48
+671	Axew	46
+37	Nidoran (Male)	46
+48	Oddish	45
+481	Chingling	45
+258	Elekid	45
+529	Dusknoir	45
+774	Goomy	45
+100	Haunter	45
+748	Honedge	45
+17	Kakuna	45
+127	Goldeen	45
+257	Smoochum	45
+467	Cherubi	45
+276	Torchic	45
+508	Mantyke	45
+733	Spewpa	45
+729	Fletchling	45
+288	Wurmple	45
+246	Houndour	45
+13	Caterpie	45
+243	Delibird	45
+259	Magby	45
+685	Pawniard	45
+0	Bulbasaur	45
+635	Gothita	45
+379	Anorith	45
+554	Snivy	45
+364	Swablu	45
+565	Lillipup	45
+359	Trapinch	45
+638	Solosis	45
+581	Blitzle	45
+406	Bagon	45
+608	Petilil	45
+448	Shinx	45
+166	Chikorita	45
+347	Carvanha	45
+600	Sewaddle	45
+680	Mienfoo	45
+563	Patrat	45
+781	PumpkabooSmall Size	44
+737	Flabébé	44
+658	Ferroseed	44
+435	Chimchar	44
+9	Squirtle	44
+385	Shuppet	44
+764	Helioptile	44
+373	Corphish	43
+405	Luvdisc	43
+778	Phantump	43
+758	Binacle	42
+724	Froakie	41
+568	Purrloin	41
+159	Dratini	41
+496	Riolu	40
+307	Surskit	40
+441	Starly	40
+337	Electrike	40
+301	Wingull	40
+78	Tentacool	40
+272	Treecko	40
+631	Zorua	40
+61	Mankey	40
+660	Klink	40
+46	Zubat	40
+375	Baltoy	40
+20	Pidgey	40
+16	Weedle	40
+65	Poliwag	40
+501	Skorupi	40
+410	Beldum	40
+117	Koffing	40
+606	Cottonee	40
+389	Dusclops	40
+604	Whirlipede	40
+80	Geodude	40
+299	Taillow	40
+69	Kadabra	40
+451	Budew	40
+790	Noibat	40
+293	Lotad	40
+457	Burmy	40
+26	Spearow	40
+131	Mr. Mime	40
+236	Slugma	40
+721	Fennekin	40
+108	Voltorb	40
+191	Natu	40
+181	Spinarak	40
+57	Meowth	40
+179	Ledyba	40
+296	Seedot	40
+4	Charmander	39
+169	Cyndaquil	39
+286	Zigzagoon	38
+732	Scatterbug	38
+304	Kirlia	38
+42	Vulpix	38
+623	Yamask	38
+727	Bunnelby	38
+446	Kricketot	37
+643	Vanillite	36
+663	Tynamo	35
+51	Paras	35
+241	Remoraid	35
+149	Omanyte	35
+401	Clamperl	35
+28	Ekans	35
+284	Poochyena	35
+30	Pikachu	35
+56	Dugtrio	35
+189	Togepi	35
+103	Onix	35
+91	Doduo	35
+175	Sentret	35
+255	Tyrogue	35
+202	Hoppip	35
+314	Nincada	31
+97	Shellder	30
+129	Staryu	30
+323	Nosepass	30
+125	Horsea	30
+206	Sunkern	30
+151	Kabuto	30
+99	Gastly	30
+334	Meditite	30
+24	Rattata	30
+106	Krabby	30
+462	Combee	30
+603	Venipede	30
+455	Shieldon	30
+303	Ralts	28
+68	Abra	25
+88	Magnemite	25
+230	Shuckle	20
+487	Mime Jr.	20
+186	Pichu	20
+139	Magikarp	20
+381	Feebas	20
+388	Duskull	20
+55	Diglett	10
+316	Shedinja	1
