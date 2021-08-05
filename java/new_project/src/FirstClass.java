@@ -10,6 +10,9 @@ public class FirstClass {
         System.out.println(maxOfTwo);
 
         long maxValueEver = Long.MAX_VALUE;
+        // if you add to max value, you get a negative number
+        // if you subtract from min value, you get a positive number
+        
         System.out.println(maxValueEver);
     }
 }
