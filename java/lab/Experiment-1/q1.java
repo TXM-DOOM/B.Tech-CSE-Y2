@@ -1,4 +1,5 @@
 // Write a program to print the kth digit from the last of an integers
+// 
 
 import java.util.Scanner;
 
@@ -15,5 +16,7 @@ public class q1 {
             n /= 10;
         }
         System.out.printf("Last digit of a given number is: %d", n % 10);
+
+        input.close();
     }    
 }
