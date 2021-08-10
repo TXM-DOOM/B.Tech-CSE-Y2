@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('applied-statistics\python-revisited\libraries\pandas\pokemon_data.csv')
+df = pd.read_csv('C:\\Users\\Volt\\Code\\AIML-Year-2\\applied-statistics\\python-revisited\\libraries\\pandas\\pokemon_data.csv')
 
 # Prints the entire dataset
 print(df)

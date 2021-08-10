@@ -1,5 +1,4 @@
 // Write a program to print the kth digit from the last of an integers
-// 
 
 import java.util.Scanner;
 
