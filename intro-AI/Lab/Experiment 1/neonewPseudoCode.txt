@@ -1,0 +1,17 @@
+def newneo_game(lower, upper):
+    for i in range(lower, upper + 1):
+        addstring = ""
+        if i % 3 == 0:
+            addstring = "NEO"
+                if i % 5 == 0:
+                    addstring = "NEW"
+        elif i % 5 == 0:
+            addstring = "NEW"
+
+    print(i, addstring)
+
+
+get lower 
+get upper
+
+check conditions
