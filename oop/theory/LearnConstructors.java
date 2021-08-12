@@ -6,7 +6,7 @@
 
 // the order of calling constructors is opposite to the order of printing inside the constructors
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class LearnConstructors {
     private int a;
@@ -49,7 +49,7 @@ public class LearnConstructors {
     }
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        // Scanner input = new Scanner(System.in);
 
         // int x;
         // String y;

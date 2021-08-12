@@ -19,6 +19,38 @@ public class CarClass {
     // it is best practice to keep boolean vars names starting with 'is'
     private boolean isFirstHand;
 
+    public int getHorsePower() {
+        return this.horsePower;
+    }
+
+    public void setHorsePower(int horsePower) {
+        this.horsePower = horsePower;
+    }
+
+    public int getModel() {
+        return this.model;
+    }
+
+    public void setModel(int model) {
+        this.model = model;
+    }
+
+    public String getColour() {
+        return this.colour;
+    }
+
+    public void setColour(String colour) {
+        this.colour = colour;
+    }
+
+    public boolean isIsFirstHand() {
+        return this.isFirstHand;
+    }
+
+    public void setIsFirstHand(boolean isFirstHand) {
+        this.isFirstHand = isFirstHand;
+    }
+
     public int numberWheels; 
 
     // Start of main() method
