@@ -1,4 +1,4 @@
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class BankAccount {
     private String accountNumber;
@@ -8,7 +8,7 @@ public class BankAccount {
     private int accountOwnerAge;
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        // Scanner input = new Scanner(System.in);
         BankAccount account = new BankAccount();
 
         account.setAccountNumber("500081889");
