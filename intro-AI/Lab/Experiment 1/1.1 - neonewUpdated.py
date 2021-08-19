@@ -1,17 +1,21 @@
 def newneo_game(lower, upper):
-    for i in range(lower, upper):
-        addstring = ''
-        if i % 3 == 0:
-            addstring = "Neo"
-            if i % 5 == 0:
-                addstring += "New"
+    if lower < upper:
+        for i in range(lower, upper):
+            addstring = '= '
+            if i % 3 == 0:
+                addstring += "NEO"
+                if i % 5 == 0:
+                    addstring += "NEW"
 
-        elif i % 5 == 0:
-            addstring == "Neo"
+            elif i % 5 == 0:
+                addstring == "NEO"
 
-        print(i, addstring)
+            print(i, addstring)
+    else:
+        print("Lower range entered is greater than upper range")
 
 
-Lower = int(input('enter starting range'))
-Upper = int(input('enter upper range'))
-newneo_game(Lower, Upper)
+lower = int(input("Enter a number as lower bound: "))
+upper = int(input("Enter a number as upper bound (upper > lower): "))
+
+newneo_game(lower, upper)
