@@ -1,3 +1,5 @@
+package Inheritance;
+
 public class AnimalBaseClass {
     private String name;
     private int size;
