@@ -61,7 +61,7 @@ public class CarClass {
         // our fields are private so they cant be directly accessed
 
         // the only field that can be accessed is the public field numberWheels
-        car.numberWheels = 4;
+        car.numberWheels = (int) args[0];
         System.out.println(car.numberWheels);
 
         // now setting type of type var
