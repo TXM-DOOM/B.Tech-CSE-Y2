@@ -20,7 +20,7 @@ These take no arguments.
     // call
     ClassName objectName = new ClassName();
 
-###### Note: The compiler calls a default constructor automatically, which looks like that this:
+###### Note: The compiler calls a default constructor automatically, which looks like this:
 
     ClassName() {}
 
@@ -87,7 +87,7 @@ This is a type of para ctor. The only diff is the type of the parameter. This ON
         }
     }
 
-    // in main()
+    // int main()
     Student stu2 = new Student("Sumit", "Chennai", 8.81);
 
 *Without using copy ctor:*
