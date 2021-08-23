@@ -1,14 +1,3 @@
-# TODO
-# [X] - Read excel file as dataframe
-
-# [X] - Figure our what kind of data it is, eg:. Nominal, Ordinal, etc
-
-# [X] - Depending on the type, figure out the mesaure of central tendency that can be found out by ops on the data, eg: if we can find the summation, we cant find the mean, if its not ordinal, we cant sort and we cant find the median, etc.
-
-# [X] - Fill in the missing value in the CGPI field
-
-# ---------------------------------------------------------------------------------------
-
 # EXPLANATION:
 
 # The dataFrame has the following fields:
@@ -21,6 +10,23 @@
 # The CGPA field is of Ratio datatype. Thus, Mode, Median and Mean can be obtained
 
 # Quality of Assignment, as the name of the field suggests, is a field of Qualitative type rather than Quantitative type. Since its a textual field and is dependent on conext rather than numeric value. The mode can be obtained from this field.
+
+
+# ---------------------------------------------------------------------------------------
+
+
+# TODO
+# [X] - Read excel file as dataframe
+
+# [X] - Figure our what kind of data it is, eg:. Nominal, Ordinal, etc
+
+# [X] - Depending on the type, figure out the mesaure of central tendency that can be found out by ops on the data, eg: if we can find the summation, we cant find the mean, if its not ordinal, we cant sort and we cant find the median, etc.
+
+# [X] - Fill in the missing value in the CGPI field
+
+
+# ---------------------------------------------------------------------------------------
+
 
 import pandas as pd
 
