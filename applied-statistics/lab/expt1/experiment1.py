@@ -31,7 +31,7 @@
 import pandas as pd
 
 # Read the dataset from excel file by passing raw string as argument to read_excel() fn
-dataFrame = pd.read_excel(r'C:\Users\Volt\Code\B.Tech-CSE-Y2\applied-statistics\lab\Demo.xlsx')
+dataFrame = pd.read_excel(r'C:\Users\Volt\code\B.Tech-CSE-Y2\applied-statistics\lab\expt1\Demo.xlsx')
 
 # Print the pandas dataFrame obtained from the excel file
 print('\n-----------ORIGINAL DATA-------------')
