@@ -97,7 +97,7 @@ public class MultiplyComplexNumbers {
         // Use the flg test input
         // n1: 2, -7
         // n2: 4, 3
-        // o/p = 20, -22
+        // o/p = 29, -22
 
         System.out.println("Input Real and Img of first number: ");
         int r1 = input.nextInt();

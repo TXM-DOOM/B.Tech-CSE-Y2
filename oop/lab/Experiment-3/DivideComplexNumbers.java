@@ -89,10 +89,6 @@ class Comp {
         return returnComp;
     }
 
-    // public void Conjugate(Comp a) {
-    //     a.img *= -1;
-    // }
-
     public Comp divide(Comp c) {
         Comp resultObject = new Comp();
 
