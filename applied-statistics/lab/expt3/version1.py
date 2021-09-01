@@ -1,9 +1,9 @@
 # Code by Desh Iyer
 
 # TODO
-# [ ] - Generate a random sample with mean = 5, std. dev. = 2. 
-# [ ] - Plot the distribution.
-# [ ] - Give the summary statistics
+# [X] - Generate a random sample with mean = 5, std. dev. = 2. 
+# [X] - Plot the distribution.
+# [X] - Give the summary statistics
 
 import numpy as np
 import matplotlib.pyplot as plt

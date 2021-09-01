@@ -24,7 +24,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Accept number of elements to generate thru' user input
-numberSample = int(input("Number of samples: "))
+numberSample = int(input("\nNumber of samples: "))
 
 # Generate the array using the numpy.random.normal(mean, std, numberOfElts) method
 sampleArray = np.random.normal(5, 2, numberSample)
@@ -34,8 +34,8 @@ sampleArrayMean = np.mean(sampleArray)
 sampleArrayStd = np.std(sampleArray)
 
 # Give the summary statistics
-print("\n------SUMMARY------\n")
-print("Generated Sample List with {} elements:\n{}\n\nCalculated Mean = {:.3f}\nCalculated Standard Deviation = {:.3f}".format(
+# print("\n------SUMMARY------\n")
+print("\nGenerated Sample List with {} elements:\n\n{}\n\n------SUMMARY------\n\nCalculated Mean = {:.3f}\nCalculated Standard Deviation = {:.3f}\n".format(
     numberSample, sampleArray, sampleArrayMean, sampleArrayStd
 ))
 
