@@ -32,11 +32,12 @@ sampleArray = np.random.normal(5, 2, numberSample)
 # Calculate mean and std. deviation of the generated array
 sampleArrayMean = np.mean(sampleArray)
 sampleArrayStd = np.std(sampleArray)
+sampleArrayVar = np.var(sampleArray)
 
 # Give the summary statistics
 # print("\n------SUMMARY------\n")
-print("\nGenerated Sample List with {} elements:\n\n{}\n\n------SUMMARY------\n\nCalculated Mean = {:.3f}\nCalculated Standard Deviation = {:.3f}\n".format(
-    numberSample, sampleArray, sampleArrayMean, sampleArrayStd
+print("\nGenerated Sample List with {} elements:\n\n{}\n\n------SUMMARY------\n\nCalculated Mean = {:.3f}\nCalculated Standard Deviation = {:.3f}\nCalculated Variance = {:.3f}\n".format(
+    numberSample, sampleArray, sampleArrayMean, sampleArrayStd, sampleArrayVar
 ))
 
 # Plotting the graph
