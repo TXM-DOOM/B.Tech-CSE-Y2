@@ -30,8 +30,18 @@ class Employee {
     }
 }
 
+class Manager extends Employee {
+    private String department;
+
+    public Manager() {};
+}
+
 public class q5 {
     public static void main(String[] args) {
-        Employee E1 = new Employee("E1", "500081889", 100);
+        // Employee E1 = new Employee("E1", "500081889", 100);
+        // System.out.println(E1.getName());
+        // System.out.println(E1.getSalary());
+    
+        
     }    
 }
