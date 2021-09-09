@@ -50,7 +50,7 @@ public class q5 {
         int choice;
 
         for (;;) {
-            System.out.println("\n\n----M E N U----\n");
+            System.out.println("\n\nM E N U\n");
             System.out.println("1. Push an element to the Stack");
             System.out.println("2. Pop an element from the Stack");
             System.out.println("3. Display all elements of the Stack");
@@ -81,7 +81,6 @@ public class q5 {
                 default:
                     System.out.println("Choose another option pls ty...");
             }
-            
         }
     }
 }
