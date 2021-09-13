@@ -18,7 +18,7 @@
 
 import pandas as pd
 
-df = pd.read_excel(r'C:\Users\Volt\code\B.Tech-CSE-Y2\applied-statistics\lab\expt2\Demo.xlsx')
+df = pd.read_excel(r'C:\Users\Volt\code\B.Tech-CSE-Y2\applied-statistics\lab\experiment-2\Demo.xlsx')
 
 # Finding range of Marks column
 print('----------MARKS-----------\n')

@@ -1,11 +1,22 @@
-import numpy as nd
-import random
+import pandas as pd
+import matplotlib.pyplot as plt
+import statistics
+import numpy as np
 
-ls = []
+data = pd.read_excel(r"C:\Users\Volt\code\B.Tech-CSE-Y2\applied-statistics\lab\experiment-2\Demo.xlsx")
 
-n = int(input("N: "))
+print("          Marks          ")
+mcol = data['Marks'].sort_values(ascending=False)
+mrange = mcol.max() - mcol.min()
+mstddev = mcol.std()
+mvar = mcol.var()
 
-for i in range(n):
-    ls.append(i)
+print(mcol)
 
-print(ls)
+print("The range of the marks column = {}".format(mrange))
+print("The standard deviation of the marks column = {}".format(mstddev))
+print("The variance of the marks column = {}".format(mvar))
+
+# print("          CGPA           ")
+
+# cgpacol = data['CGPI'].sort_values(asce)
