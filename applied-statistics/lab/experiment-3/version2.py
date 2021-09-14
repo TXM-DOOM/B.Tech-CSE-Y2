@@ -23,7 +23,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Accept number of elements to generate thru' user input
-numberSample = int(input("\nNumber of samples: "))
+numberSample = int(input("Number of samples: "))
 
 # Generate the array using the numpy.random.normal(mean, std, numberOfElts) method
 sampleArray = np.random.normal(5, 2, numberSample)
