@@ -1,18 +1,14 @@
 #include <iostream>
-
 #define N 10
 
 using namespace std;
 
 class Stack {
     private:
-
         int stack[N];
         int top;
 
-
     public:
-
         Stack() {
             top = -1;
         }
