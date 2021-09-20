@@ -20,7 +20,7 @@ def normalProbabilityDensity(x):
 # Create a pandas dataframe with rows and cols indexed appropriately
 zTable = pd.DataFrame(
     data = [],
-    index = np.round(np.arange(4.1, -4.1, -.1), 2),
+    index = np.round(np.arange(8, -8.1, -.1), 2),
     columns = np.round(np.arange(0.00, .1, .01), 2)
 )
 
@@ -34,3 +34,7 @@ for index in zTable.index:
         zTable.loc[index, column] = value
 
 print(f'Z Table\n\n{zTable}')
+
+zTable.to_excel(r'C:\Users\Volt\Code\B.Tech-CSE-Y2\applied-statistics\lab\experiment-5\zTable.xlsx')
+
+zTable.to_csv(r'C:\Users\Volt\Code\B.Tech-CSE-Y2\applied-statistics\lab\experiment-5\zTable.txt')
