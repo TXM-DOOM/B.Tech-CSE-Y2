@@ -1,29 +1,34 @@
-// import java.util.Scanner;
-
-class NonNumericValue extends Exception {
-    public NonNumericValue(String Message) {
-        super(Message);
+class DetectStringArgException extends Exception {
+    public DetectStringArgException(String message) {
+        super(message);
     }
 }
 
 public class q2 {
-    public static boolean isInt(int x) {
-        return (x % 1 == 0 ? true : false);
-    }
-
     public static void main(String[] args) {
         try {
-            if (!isInt(Integer.parseInt(args[0]))) {
-                throw new NonNumericValue("Value entered is non-numeric");
+            if (!isNumber(args[0]) || !isNumber(args[1])) {
+                throw new DetectStringArgException("Argument entered is not a number!");
             }
-        } catch(NonNumericValue e) {
-            System.out.println(e);
-        } catch(NumberFormatException e) {
-            System.out.println(e);
+
+            int x = Integer.parseInt(args[0]);
+            int y = Integer.parseInt(args[1]);
+
+            System.out.println("Result = " + (x % y));
+        } catch (DetectStringArgException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
+    public static boolean isNumber(String a) {
+        int length = a.length();
+
+        for (int i = 0; i < length; i++) {
+            if (!Character.isDigit(a.charAt(i))) {
+                return false;
+            }
         }
 
-        System.out.println("Outside try-catch block!");
-    }    
+        return true;
+    }
 }
-
-
