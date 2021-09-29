@@ -31,4 +31,15 @@ public class q2 {
 
         return true;
     }
+
+    public static int isNumberInt(String a) {
+        // int stringLen = a.length();
+
+        for (int i = 0; i < a.length(); i++) {
+            if (!Character.isDigit(a.charAt(i)))
+                return 0;
+        }
+        
+        return 1;
+    }
 }
