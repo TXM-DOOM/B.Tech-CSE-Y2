@@ -1,6 +1,6 @@
 public class q3 {
     public static void main(String[] args) {
-        int[] testArray = new int[10000];
+        int[] testArray = new int[1000];
 
         int x = Integer.parseInt(args[0]);
         int y = Integer.parseInt(args[1]);
