@@ -1,10 +1,10 @@
 // Code by Desh Iyer
 
-// Read a string and replace first x by y. Input artxuxtxxp output artyuxtxxp
+// Replace second x by y.
 
 import java.util.Scanner;
 
-public class q1 {
+public class q3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String b;
@@ -17,9 +17,14 @@ public class q1 {
 
             a.append(b);
 
+            int tempIndex = a.indexOf("x");
+            
+            a.setCharAt(tempIndex,'a');
+            
             int index = a.indexOf("x");
-
+            
             a.setCharAt(index,'y');
+            a.setCharAt(tempIndex,'x');
 
             System.out.println(a);
         } catch (Exception e) {
