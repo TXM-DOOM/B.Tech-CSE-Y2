@@ -19,13 +19,13 @@ To that end, the ideal method to use this repository is to contribute code to it
 ## Introduction to version control with Git - working with Git's CLI
 ###### What follows is the steps to successfully collaborate on a GitHub repo for any beginner to Git and GitHub.
 
-### How to contribute?
-#### Forking the repo
+## How to contribute?
+### Forking the repo
 The first thing you need to do to be able to contribute to this repo, is to fork this repo. To do this, navigate to the top right of your screen to where it says `fork` and hit the button.
 
 This will prompt you to create a forked repo that is owned by you and not by any one else.
 
-#### Updating forked repo
+### Updating forked repo
 Updating the forked repo is just like updating any other repo on GitHub using Git.
 
 - First clone the repo by copying its link and using the CLI.
@@ -52,7 +52,7 @@ Updating the forked repo is just like updating any other repo on GitHub using Gi
 
 ###### Note: If there are any errors in creating a pull request, read the next para to sync changes in the main repo with your forked one.
 
-#### Syncing your forked repo
+### Syncing your forked repo
 ##### Its important to note that before you start working on your forked repo, you want to make sure that your forked repo is up-to-date and is in sync with the main repo. 
 This is so that you don't step on any toes when you make your changes or you dont make changes and make a PR to find that someone beat you to the punch. You do this by executing the following commands in your Git bash.
 
