@@ -23,9 +23,9 @@ network.add_edge(d1, d3)
 network.add_edge(d2, d3) 
 network.bake() 
 gate= input("Enter the Gate to choose: [A, B, C] : ") 
-beliefs = network.predict_proba({'guest':gate})
+beliefs = network.predict_proba({'guest': gate})
 
-beliefs = map(str, beliefs) 
+beliefs = map(str, beliefs)
 
 print(" n ".join("{} t {}".format(state.name, belief) for state, belief in zip(network.states, beliefs)))
 
