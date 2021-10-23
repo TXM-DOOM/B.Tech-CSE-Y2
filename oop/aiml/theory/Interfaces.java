@@ -28,18 +28,18 @@ interface Telephone {
     }
 
     // default belongs to the instance
-    default void defaultMethod {
-        System.out.println("Default Method has been invoked!");
-    }
+    // default void defaultMethod {
+    //     System.out.println("Default Method has been invoked!");
+    // }
 }
 
 // notice we use the keywork implements rather than extends
 class DesktopPhone implements Telephone {
-    private int phoneNumber;
+    // private int phoneNumber;
     // private boolean isRinging;
 
     public DesktopPhone(int n) {
-        this.phoneNumber = n;
+        // this.phoneNumber = n;
     }
 
     @Override
