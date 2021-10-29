@@ -32,7 +32,7 @@ public class ArrayListExample {
 
         // To print without []
         // for (int i = 0; i < list1.size(); i++) {
-        // System.out.printf("%s ", list1.get(i));
+        // System.out.printf("%s ", list1.get(i)); \
         // }
 
         // To print with []
