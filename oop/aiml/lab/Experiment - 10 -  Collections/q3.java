@@ -15,39 +15,40 @@ public class q3 {
         // Creating a Scanner object to take user input
         Scanner in = new Scanner(System.in);
 
-        // Creating a HashSet of names
-        HashSet<String> names = new HashSet<String>();
+        // Creating an ArrayList of names
+        ArrayList<String> names = new ArrayList<String>();
 
-        // Adding names to the HashSet
+        // Adding names to the AL
         names.add("Bhavy");
         names.add("Bharat");
         names.add("Divy");
         names.add("Divyam");
 
-        // Printing original HS
-        System.out.println("Printing values in original HashSet:");
+        // Printing original AL
+        System.out.println("Printing values in original ArrayList:");
         for (String Value: names) {
             System.out.println(Value);
         }
 
-        // Creating a copy of the org HS
-        System.out.println("\nCreating a copy of the above HashSet");
-        HashSet<String> copy = (HashSet<String>) names.clone();
-
-        System.out.println("\nClearing original HashSet");
-        names.clear();
-        System.out.println("\nOriginal HashSet: " + names);
+        // Creating a copy of the org AL
+        System.out.println("\nCreating a copy of the above ArrayList");
+        HashSet<String> copy = new HashSet<String>(names);
 
         // Taking user input
         System.out.println("\nEnter a value to search the HashSet for: ");
         String lookFor = in.next();
-
+        
         // Searching HS for user inputted String
         if (copy.contains(lookFor)) {
             System.out.println("Value entered is present in the HashSet!");
         } else {
             System.out.println("Value entered is NOT present in the HashSet!");
         }
+
+        System.out.println("\nClearing HashSet");
+        // Clearing all elts of the HS in one statement
+        copy.clear();
+        System.out.println("Printing HashSet: " + copy);
 
         in.close();
     }
