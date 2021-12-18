@@ -7,10 +7,10 @@ interface TelephoneDevice {
 }
 
 class DesktopTelephoneExample implements ElectronicsDevice, TelephoneDevice {
-    private int phNumber;
+    // private int phNumber;
 
     public DesktopTelephoneExample(int n) {
-        this.phNumber = n;
+        // this.phNumber = n;
     }
 
     @Override 
